@@ -9,5 +9,6 @@ public interface EmilService {
 	public String sendSampleEmail(EmailEnitity emailEnitity);
 	
 	//Testing the git fetch 
+	//Testing the git pull
 
 }
